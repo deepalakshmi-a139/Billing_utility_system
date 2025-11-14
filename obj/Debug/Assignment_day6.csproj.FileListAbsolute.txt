@@ -1,0 +1,8 @@
+C:\Users\deepalakshmia\Desktop\Infinite_Training\Assignment_day6\bin\Debug\Assignment_day6.exe.config
+C:\Users\deepalakshmia\Desktop\Infinite_Training\Assignment_day6\bin\Debug\Assignment_day6.exe
+C:\Users\deepalakshmia\Desktop\Infinite_Training\Assignment_day6\bin\Debug\Assignment_day6.pdb
+C:\Users\deepalakshmia\Desktop\Infinite_Training\Assignment_day6\obj\Debug\Assignment_day6.csproj.AssemblyReference.cache
+C:\Users\deepalakshmia\Desktop\Infinite_Training\Assignment_day6\obj\Debug\Assignment_day6.csproj.CoreCompileInputs.cache
+C:\Users\deepalakshmia\Desktop\Infinite_Training\Assignment_day6\obj\Debug\Assignment_day6.exe
+C:\Users\deepalakshmia\Desktop\Infinite_Training\Assignment_day6\obj\Debug\Assignment_day6.pdb
+C:\Users\deepalakshmia\Desktop\Infinite_Training\Assignment_day6\obj\Debug\Assignment_day6.exe.config
